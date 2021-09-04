@@ -1,2 +1,3 @@
 # hello_world
-just learning how to use github
+Hi I'm njeveh
+I am a computer science student.
